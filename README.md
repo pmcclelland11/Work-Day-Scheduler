@@ -1,6 +1,6 @@
 # UC Berkeley Coding Bootcamp - Module 5 Challenge
 ## Work Day Scheduler
-Code refactor challenge - I was provided the starter code for the project which is intended to be used as a work day scheduler. 
+Code refactor challenge - I was provided the starter code for the project which is intended to be used as a work day scheduler. Reviewing the starter code, I notived that we were only provided 
 
 ## Table of Contents 
 - [User Story](#user-story)
