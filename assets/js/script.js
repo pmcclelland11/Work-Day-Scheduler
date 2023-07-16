@@ -13,6 +13,10 @@ $(function () {
     // Display custom-made "Appointment Saved!" message to the user
     // The message will appear for 2 seconds and then fade out
     $('.save-message').fadeIn().delay(2000).fadeOut(); 
+
+    // Play audio confirmation sound once the user clicks a 'saveBtn'
+    var confirmationAudio = new Audio('assets/sounds/confirm.mp3');
+    confirmationAudio.play();
   });
 
   // Function that adds the appropriate class to each time-block
