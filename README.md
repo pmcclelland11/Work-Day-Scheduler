@@ -1,6 +1,6 @@
 # UC Berkeley Coding Bootcamp - Module 5 Challenge
 ## Work Day Scheduler
-Code refactor challenge - I was provided the starter code for the project which is intended to be used as a work day scheduler. Reviewing the starter code, I notived that we were only provided 
+Code refactor challenge: I was provided the starter code for the project which is intended to be used as a work day scheduler. The starter code only gave the skeleton for the project - I was required to add additional time-blocks to the scheduler using HTML and then write the entire script.js file to add functionality. For this assignment, I utilized jQuery to do the following tasks: add listeners to saveBtns, dynamically add/remove classes to HTML elements, and save user input to localStorage. Not only did this assignment test my understanding of HTML, CSS, JavaScript, and jQuery, but it also required me to work with the third-party API dayjs, further enhancing my website's functionality.
 
 ## Table of Contents 
 - [User Story](#user-story)
@@ -55,13 +55,11 @@ N/A
 N/A
 
 ## Authors
-Created by Patrick McClelland, UC Berkeley Bootcamp Student
+Modified by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Webpage Screenshot
-![Multiple Choice Quiz - Webpage Screenshot](./assets/images/)
-<!-- ADD LINK TO IMAGE ABOVE -->
+![Work Day Scheduler - Webpage Screenshot](./assets/images/Work%20Day%20Scheduler%20-%20Website%20Screenshot.png)
 
 ## Link to Deployed Application
 To access the deployed application, please click the link below:
-https://pmcclelland11.github.io/
-<!-- ADD LINK TO WEBSITE ABOVE -->
+https://pmcclelland11.github.io/Work-Day-Scheduler/
